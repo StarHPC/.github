@@ -1,0 +1,3 @@
+### High-Performance Computing for Research
+
+Star HPC is a diverse research community and a state-of-the-art computing facility for accelerating research in artificial intelligence, machine learning, molecular modeling, bioinformatics, cognitive modeling, scientific computing, engineering, and other domains. The Star cluster is designed to support a broad range of data-intensive and resource-demanding workloads for data analysis, parallel computing, simulations, large-scale data processing, and other applications. It combines advanced computing nodes with high-end GPUs, an ultra-high-throughput low latency network fabric, a high-speed parallel file system storage, and a suite of software applications.
